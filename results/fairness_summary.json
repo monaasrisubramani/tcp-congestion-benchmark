@@ -1,0 +1,18 @@
+{
+  "_meta": {
+    "scenario": "fairness",
+    "topo_kwargs": {
+      "bw": 10,
+      "delay": "20ms",
+      "loss": 0,
+      "max_queue_size": 100
+    }
+  },
+  "cubic_throughput_bps": 6221433.03717728,
+  "bbr_throughput_bps": 3739856.803460594,
+  "jains_fairness_index": 0.9415648293641852,
+  "flows": {
+    "cubic": 6221433.03717728,
+    "bbr": 3739856.803460594
+  }
+}

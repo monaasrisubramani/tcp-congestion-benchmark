@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Mininet temp files
+/tmp/vconn*
+/tmp/vlogs*
+*.out
+
+# Error stubs (optional — comment out if you want to keep them)
+results/*_ERROR.json
+
+# NOTE: results/ and plots/ are intentionally INCLUDED
+# so teammates can see the actual benchmark output without running Mininet.
+# Mininet requires Linux + root — teammates on Windows cannot run it directly.
