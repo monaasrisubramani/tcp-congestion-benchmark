@@ -8,11 +8,11 @@
       "max_queue_size": 100
     }
   },
-  "cubic_throughput_bps": 6221433.03717728,
-  "bbr_throughput_bps": 3739856.803460594,
-  "jains_fairness_index": 0.9415648293641852,
+  "cubic_throughput_bps": 6623282.855526864,
+  "bbr_throughput_bps": 3390286.1705852537,
+  "jains_fairness_index": 0.905600561716116,
   "flows": {
-    "cubic": 6221433.03717728,
-    "bbr": 3739856.803460594
+    "cubic": 6623282.855526864,
+    "bbr": 3390286.1705852537
   }
 }
